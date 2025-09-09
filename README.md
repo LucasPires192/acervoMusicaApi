@@ -7,14 +7,14 @@ O Api faz parte de um exercicio de criacao de Api usando laravel
 
 Abaixo os prints do métodos de http funcionando'
 
-Método Get
+- - Método Get
 ![Print do método Get](assets/metodo_get.png)
 
-Método Post
+- - Método Post
 ![Print do método Post](assets/metodo_post.png)
 
-Método Put
+- - Método Put
 ![Print do método Put](assets/metodo_put.png)
 
-Método Delete
+- - Método Delete
 ![Print do método Delete](assets/metodo_delete.png)
